@@ -64,7 +64,7 @@ Now you have everything set up. You can start 'Debugging' your code.
 <!-- Figure 8: Run Debugger -->
 ![Figure1](https://github.com/vilktor370/Tutorial/blob/main/pictures/Run.png)
     
-## 4. Feature readings(Comming soon)
+## 4. Feature readings (Comming soon)
 - How to debug your code like a pro
 - Useful Extensions for C++ programming
 - Useful tricks on C++
