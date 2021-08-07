@@ -71,7 +71,7 @@ Now you have everything set up. You can start 'Debugging' your code.
 
 # Note
 
-All the source code would be live in this [GitHub repository](https://github.com/vilktor370/Tutorial/edit/main).
+All the source code would be live in this [GitHub repository](https://github.com/vilktor370/Tutorial/).
 
 author: Haochen (Tony) Yu.
 Feel free to contact me at: **vilktor370@gmail.com**
