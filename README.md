@@ -36,7 +36,7 @@ If it isfirst time using debugger for this program (which we are in this case), 
 
 First make sure you have the *C++ extension* installed in VScode. If not, simply go to the *extension tab*, and search for *C/C++* in the search box on top. It is usually the first one which is offered by Microsoft. 
 
-![Figure1](https://github.com/vilktor370/Tutorial/blob/main/pictures/Config_debugger1.png)
+![Figure1](/pictures/Config_debugger1.png)
 
 <!-- <Figure 2: Debugger picture> -->
 ![Figure1](https://github.com/vilktor370/Tutorial/blob/main/pictures/Config_debugger2.png)
